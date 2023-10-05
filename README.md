@@ -17,6 +17,8 @@ Redis is used as an efficient Database for the project.
 
 To start the project in your local:
 
+-Rename the folder as shorten-url-fiber-redis-yt.
+
 -Start Redis server at port 6379.
 
 -Do docker compose using terminal to load application in docker container.
